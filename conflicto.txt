@@ -1,1 +1,4 @@
 cambio desde branch A
+cambio desde branch B
+
+realizando rebase
