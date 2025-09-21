@@ -1,2 +1,13 @@
 cambio en master branch
 cambios no commiteados
+
+agrego contenido ✍️
+
+```
+# Modificar último commit
+git commit --amend -m "Commit actualizado con nuevos cambios"
+
+# Force push si ya fue pusheado
+git push origin main --force
+
+```
